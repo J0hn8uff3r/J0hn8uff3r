@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=J0hn8uff3r&theme=merko)](https://github.com/J0hn8uff3r/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=J0hn8uff3r&theme=merko&text_color=ff4000)](https://github.com/J0hn8uff3r/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0hn8uff3r&theme=merko)](https://github.com/J0hn8uff3r/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0hn8uff3r&theme=merko&text_color=ff4000)](https://github.com/J0hn8uff3r/github-readme-stats)
 
 
 Here are some ideas to get you started:
